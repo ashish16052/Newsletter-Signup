@@ -21,7 +21,7 @@ app.post("/", function (req, res) {
     const firstName = req.body.first;
     const secondName = req.body.last;
     const email = req.body.email;
-    const listId = "fb31a23084";
+    const listId = "INSERT YOUR LIST HERE";
     const subscribingUser = {
         firstName: firstName,
         lastName: secondName,
@@ -50,5 +50,3 @@ app.listen(3000, function () {
     console.log("Server is running on port-3000");
 });
 
-//78d3431a42cb55f981e3bd1bab7d1371-us20
-//fb31a23084  
