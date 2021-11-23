@@ -1,0 +1,15 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "newsletter signup page",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashish mohite",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.72",
+    "express": "^4.17.1"
+  }
+}
