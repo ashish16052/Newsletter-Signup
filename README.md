@@ -1,7 +1,7 @@
 # Newsletter-Signup
 Newsletter Sign-up page using Mailchimp API and Node.js
 
-##How to run:
+## How to run:
 1)Download all files.
 
 2)Install Node.js
